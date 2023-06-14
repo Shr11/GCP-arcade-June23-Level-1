@@ -1,0 +1,5 @@
+#script after uploading the task file 
+
+
+chmod +x quicklabgsp903.sh        
+./quicklabgsp903.sh
