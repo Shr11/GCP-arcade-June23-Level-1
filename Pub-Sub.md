@@ -1,3 +1,5 @@
+
+
 # GCCP-Arcade-JuneStream-Processing-with-Cloud-Pub-Sub-and-Dataflow-Qwik-Start
 
 Google Cloud Pub/Sub is a messaging service for exchanging event data among applications and services. A producer of data publishes messages to a Cloud Pub/Sub topic. A consumer creates a subscription to that topic. Subscribers either pull messages from a subscription or are configured as webhooks for push subscriptions. Every subscriber must acknowledge each message within a configurable window of time.
